@@ -1,7 +1,7 @@
 # progress-bar
 Progress bar for Python 3+
 
-This is a script to create a generic progress bar. It requires no extra libraries.
+This is a script to create a generic progress bar. It requires no extra libraries. Feel free to tweak the script to fit what you are doing!
 
 The user is able to customize the progress object, number of objects, and the "ticks" for each object.
 
